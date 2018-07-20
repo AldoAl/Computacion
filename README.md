@@ -1,2 +1,2 @@
-# Computacion-Bioinspirada
-Computacion-Bioinspirada
+# Computacion Molecular Biologica
+Computacion Molecular Biologica
